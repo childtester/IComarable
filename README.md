@@ -1,2 +1,2 @@
-# IComarable
+# IComparable
 Interfaccia IComparable
